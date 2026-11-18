@@ -76,3 +76,7 @@ br.com.fiap.wayguard
 - Kotlin
 - Jetpack Compose
 - Material Design 3
+
+## Video Pitch
+
+https://youtu.be/AFdgiHxxvJY
